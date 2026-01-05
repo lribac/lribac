@@ -1,7 +1,9 @@
 ## Hi, I'm Lucia 👋
 
 💼 SDET
+<br>
 🧪 Passionate about test automation & quality-driven development
+<br>
 🤖 Exploring AI-driven testing strategies
 
 <!--
